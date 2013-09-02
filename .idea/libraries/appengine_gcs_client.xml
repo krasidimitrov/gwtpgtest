@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="appengine-gcs-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/appengine-gcs-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/appengine-gcs-client.jar!/" />
+    </SOURCES>
+  </library>
+</component>

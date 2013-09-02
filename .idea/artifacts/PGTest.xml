@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PGTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/PGTest</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PGTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PGTest" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="AppEngine API" />
+          <element id="file-copy" path="$GWT_HOME$/gwt-servlet.jar" />
+          <element id="library" level="project" name="gwtphonegap-2.4.0.0" />
+          <element id="library" level="project" name="mgwt-1.1.2" />
+          <element id="library" level="project" name="appengine-gcs-client" />
+          <element id="library" level="project" name="guava-14.0.1" />
+          <element id="library" level="project" name="gwt-servlet-deps" />
+        </element>
+      </element>
+      <element id="gwt-compiler-output" facet="PGTest/gwt/GWT" />
+    </root>
+  </artifact>
+</component>

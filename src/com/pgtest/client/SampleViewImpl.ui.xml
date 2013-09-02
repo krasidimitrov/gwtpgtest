@@ -1,0 +1,11 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'
+             xmlns:m='urn:import:com.googlecode.mgwt.ui.client.widget'>
+  <g:HTMLPanel>
+    <m:Button ui:field="openCameraButton">open cameraa</m:Button>
+    <br />
+    <br />
+    <br />
+    <m:Button ui:field="saveButton">save</m:Button>
+  </g:HTMLPanel>
+</ui:UiBinder>
